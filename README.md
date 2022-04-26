@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning engineer information
 - 💞️ I’m looking to collaborate on Information technology
 - 📫 How to reach me :
-     - Email => romando.purba125@gmail.com
+     - Email => romando.purba@outlook.com
+     -       =>romando.purba@yahoo.com
      - Wa => +6285263950770
      - LinkedIn => https://www.linkedin.com/in/romando-purba
 
