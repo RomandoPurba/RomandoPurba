@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RomandoPurba
-- 👀 I’m interested in frontend Developer and BackEnd developer
-- 🌱 I’m currently learning engineer information
+- 👀 I’m interested in BackEnd developer
 - 💞️ I’m looking to collaborate on Information technology
 - 📫 How to reach me :
      - Email :
