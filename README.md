@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning engineer information
 - 💞️ I’m looking to collaborate on Information technology
 - 📫 How to reach me :
-     - Email => romando.purba@outlook.com
-     -       =>romando.purba@yahoo.com
+     - Email :
+     -       => romando.purba@yahoo.com
+     -       => romando.purba46@gmail.com
      - Wa => +6285263950770
-     - LinkedIn => https://www.linkedin.com/in/romando-purba
+     - https://wa.me/6285263950770
+     - LinkedIn => https://www.linkedin.com/in/romando-purba12
 
 <!---
 RomandoPurba/RomandoPurba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
