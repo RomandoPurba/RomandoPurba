@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RomandoPurba
-- 👀 I’m interested in BackEnd developer
-- 💞️ I’m looking to collaborate on Information technology
-- 📫 How to reach me :
+- 👀 I’m interested in Backend developer
+- 📫 How to contack me :
      - Email :
      -       => romando.purba@yahoo.com
      -       => romando.purba46@gmail.com
